@@ -72,7 +72,7 @@ body {
 
 .container .accordion .title button {
     border: none;       
-    background: url(../assets/images/icon-plus.svg) no-repeat center center/cover;
+    background: url(./assets/images/icon-plus.svg) no-repeat center center/cover;
     height: 40px;
     width: 40px;
     margin-left: 40px;
@@ -101,6 +101,6 @@ body {
  
 @media(min-width: 769px) {
     .design {
-        background-image: url(../assets/images/background-pattern-desktop.svg);
+        background-image: url(./assets/images/background-pattern-desktop.svg);
     }
 }
